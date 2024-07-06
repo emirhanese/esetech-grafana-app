@@ -54,6 +54,14 @@
     },
     {
       "type": "page",
+      "name": "PCAP Comparison",
+      "path": "/a/%PLUGIN_ID%/pcapComparison",
+      "role": "Viewer",
+      "addToNav": true,
+      "defaultNav": false
+    },
+    {
+      "type": "page",
       "icon": "cog",
       "name": "Configuration",
       "path": "/plugins/%PLUGIN_ID%",
